@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wipheg&show_icons=true&theme=radical)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={automatata})](https://solved.ac/{automatata})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=automatata)](https://solved.ac/automatata)
 
 <!--
 **wipheg/wipheg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
