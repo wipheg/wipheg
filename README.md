@@ -1,31 +1,4 @@
-<h1 align="center">Hi there, I'm WIPHEG 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtd1U8g6fG8YBa/giphy.gif" alt="sunset landscape gif" width="80%">
-</p>
-
-<p align="center">
-  <b>A Backend Developer who appreciates beauty in code and sunsets 🌇</b><br>
-  I enjoy building scalable systems and love solving real-world problems with elegant solutions.
-</p>
-
----
-
-### 🌱 About Me
-
-- 🧠 Constantly learning and growing
-- 🔧 Passionate about backend engineering
-- 🌄 Inspired by serene sunsets and clean code
-
----
-
-### 📫 How to reach me
-
-- Email: `your.email@example.com`
-- Blog: [yourblog.com](https://yourblog.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FD6E6A&center=true&vCenter=true&width=435&lines=WIPHEG+is+coding...;Backend+focused%2C+sunset+inspired" alt="Typing SVG">
