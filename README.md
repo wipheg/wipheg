@@ -1,68 +1,95 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FD6E6A&center=true&vCenter=true&width=435&lines=WIPHEG+is+coding...;aBackend+focused%2C+sunset+inspired" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FD6E6A&height=200&section=header&text=WIPHEG&fontSize=60&fontAlign=50&fontColor=ffffff" />
 </p>
 
+<!-- TYPING TEXT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WIPHEG&fontSize=90" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97373&center=true&vCenter=true&width=450&lines=Backend+Developer;Clean+Architecture+Enthusiast;Coding+with+Sunset+Vibes" />
 </p>
 
+---
 
-## 소개
+# 👋 소개
+안녕하세요. 백엔드 기반으로 안정적인 시스템과 구조적인 코드를 추구하는 개발자 **WIPHEG**입니다.  
+읽기 쉬운 코드, 유지보수 가능한 아키텍처, 확장 가능한 시스템을 만드는 것에 관심이 많습니다.
 
-백엔드 중심으로 성장하고 있는 개발자 **WIPHEG**입니다
+---
 
-## 기술 스택
+# 🛠️ 기술 스택
 
-### Backend
-- Java, Spring Boot
-- JPA, QueryDSL
-- Spring Security, OAuth2
-- Gradle 기반 프로젝트 구성
+<details>
+<summary><b>📌 Backend, Infra, Database</b></summary>
+<br>
 
-### Infra / DevOps
-- Docker, Docker Compose
-- Nginx Reverse Proxy
-- AWS (EC2, RDS, S3, IAM)
-- GitHub Actions 를 활용한 CI/CD
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-D92E2A?style=for-the-badge&logo=redis&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Database
-- MySQL, PostgreSQL
-- Redis (캐시 및 세션 관리)
+</details>
 
-### Frontend
-- React, Vite
-- TypeScript
-- 기본적인 SPA 개발 및 API 연동 경험
+---
 
-## GitHub 활동
+# 📊 GitHub 활동
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=wipheg&show_icons=true&theme=radical&hide_border=true" alt="github stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=wipheg&show_icons=true&theme=radical&hide_border=true" height="170px" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wipheg&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+<!-- Top Langs -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wipheg&layout=compact&theme=radical&hide_border=true" height="170px" />
 
 </div>
 
+---
 
-## 알고리즘 & 문제 해결
+# 🔥 연속 기여 기록 (Streak)
 
 <div align="center">
+  <img src="http://streak-stats.demolab.com?user=wipheg&theme=radical&hide_border=true" />
+</div>
 
+---
+
+# 🧩 Solved.ac
+
+<div align="center">
   <a href="https://solved.ac/automatata">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=automatata" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=automatata" />
   </a>
-
 </div>
 
+---
 
-## 지금 집중하고 있는 것들
+# 🚀 현재 배우고 있는 것들
 
-- Spring Boot 기반 사이드 프로젝트 개발
-- Redis를 활용한 캐싱 전략 및 세션 관리 실험
-- Docker 기반 개발 환경 표준화
-- 꾸준한 알고리즘 문제 풀이 및 리팩터링
+<details>
+<summary><b>열기 / 닫기</b></summary>
+<br>
 
-## 기록 및 연락
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ts](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-- 이메일: `won159951@gmail.com`
+</details>
+
+---
+
+# 📫 연락
+- 이메일: your_email@example.com  
+- Velog: https://velog.io/@your_velog_id  
+- 블로그: 준비 중  
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FD6E6A&height=150&section=footer" />
+</p>
