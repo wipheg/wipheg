@@ -80,16 +80,3 @@
 
 </details>
 
----
-
-# 📫 연락
-- 이메일: your_email@example.com  
-- Velog: https://velog.io/@your_velog_id  
-- 블로그: 준비 중  
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FD6E6A&height=150&section=footer" />
-</p>
