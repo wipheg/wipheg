@@ -3,18 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FD6E6A&height=200&section=header&text=WIPHEG&fontSize=60&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<!-- TYPING TEXT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97373&center=true&vCenter=true&width=450&lines=Backend+Developer;Clean+Architecture+Enthusiast;Coding+with+Sunset+Vibes" />
-</p>
-
----
 
 # 👋 소개
 안녕하세요. 백엔드 기반으로 안정적인 시스템과 구조적인 코드를 추구하는 개발자 **WIPHEG**입니다.  
 읽기 쉬운 코드, 유지보수 가능한 아키텍처, 확장 가능한 시스템을 만드는 것에 관심이 많습니다.
 
----
 
 # 🛠️ 기술 스택
 
