@@ -39,13 +39,6 @@
 
 </div>
 
-# 🔥 연속 기여 기록 (Streak)
-
-<div align="center">
-  <img src="http://streak-stats.demolab.com?user=wipheg&theme=radical&hide_border=true" />
-</div>
-
-
 # 🧩 Solved.ac
 
 <div align="center">
