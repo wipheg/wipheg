@@ -26,7 +26,6 @@
 
 </details>
 
----
 
 # 📊 GitHub 활동
 
@@ -40,15 +39,12 @@
 
 </div>
 
----
-
 # 🔥 연속 기여 기록 (Streak)
 
 <div align="center">
   <img src="http://streak-stats.demolab.com?user=wipheg&theme=radical&hide_border=true" />
 </div>
 
----
 
 # 🧩 Solved.ac
 
@@ -57,8 +53,6 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=automatata" />
   </a>
 </div>
-
----
 
 # 🚀 현재 배우고 있는 것들
 
