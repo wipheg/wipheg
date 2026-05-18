@@ -1,62 +1,77 @@
-<!-- HEADER -->
+```md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FD6E6A&height=200&section=header&text=WIPHEG&fontSize=60&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=header&text=WIPHEG&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h3 align="center">Backend Developer focused on scalable systems and maintainable architecture</h3>
 
-# 👋 소개
-안녕하세요. 백엔드 기반으로 안정적인 시스템과 구조적인 코드를 추구하는 개발자 **WIPHEG**입니다.  
-읽기 쉬운 코드, 유지보수 가능한 아키텍처, 확장 가능한 시스템을 만드는 것에 관심이 많습니다.
+<p align="center">
+  읽기 쉬운 코드와 유지보수 가능한 구조를 지향합니다.
+  <br/>
+  백엔드 시스템 설계, 데이터 처리, 클라우드 인프라에 관심이 있습니다.
+</p>
 
+---
 
-# 🛠️ 기술 스택
+## About Me
 
-<details>
-<summary><b>📌 Backend, Infra, Database</b></summary>
-<br>
+- Spring Boot 기반 백엔드 개발
+- OCR 및 문서 데이터 처리 프로젝트 경험
+- RAG 챗봇 및 AI 연계 서비스 개발 경험
+- Cloudflare, Supabase 기반 서비스 운영 경험
+- 성능 최적화 및 구조 설계에 관심
 
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-D92E2A?style=for-the-badge&logo=redis&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-</details>
+## Tech Stack
 
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92E2A?style=flat-square&logo=redis&logoColor=white)
 
-# 📊 GitHub 활동
+### Infra & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-<div align="center">
+### Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=wipheg&show_icons=true&theme=radical&hide_border=true" height="170px" />
+---
 
-<!-- Top Langs -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wipheg&layout=compact&theme=radical&hide_border=true" height="170px" />
+## Projects
 
-</div>
+### MapleAvatar
+중고거래 커뮤니티 플랫폼  
+Cloudflare Workers, R2, KV, Supabase 기반 서비스 개발
 
-# 🧩 Solved.ac
+### OCR Document Pipeline
+Qwen-VL 기반 OCR 후처리 및 구조화 데이터 추출 시스템 개발
 
-<div align="center">
+### 공지봇
+RAG 기반 학사공지 챗봇 프로젝트  
+Spring Boot 기반 백엔드 및 DB 설계 담당
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wipheg&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wipheg&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+</p>
+
+---
+
+## Problem Solving
+
+<p align="center">
   <a href="https://solved.ac/automatata">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=automatata" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=automatata" />
   </a>
-</div>
-
-# 🚀 현재 배우고 있는 것들
-
-<details>
-<summary><b>열기 / 닫기</b></summary>
-<br>
-
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ts](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-</details>
-
+</p>
+```
