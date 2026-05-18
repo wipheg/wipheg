@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=header&text=WIPHEG&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -74,4 +74,4 @@ Spring Boot 기반 백엔드 및 DB 설계 담당
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=automatata" />
   </a>
 </p>
-```
+
