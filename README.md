@@ -75,3 +75,7 @@ Spring Boot 기반 백엔드 및 DB 설계 담당
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SWEA-D5-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solved-500%2B-success?style=flat-square" />
+</p>
