@@ -61,8 +61,8 @@ Spring Boot 기반 백엔드 및 DB 설계 담당
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wipheg&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wipheg&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=wipheg&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wipheg&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
