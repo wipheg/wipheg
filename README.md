@@ -6,9 +6,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot, REST APIs, and Clean Architecture</h3>
 
 <p align="center">
-  읽기 쉬운 코드와 유지보수 가능한 구조를 지향합니다.
-  <br/>
-  백엔드 시스템 설계, 데이터 처리, 클라우드 인프라에 관심이 있습니다.
+  Interested in scalable system design, data processing, and cloud infrastructure
 </p>
 
 ---
@@ -73,5 +71,6 @@ Spring Boot 기반 백엔드 및 DB 설계 담당
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=automatata" />
   </a>
 </p>
+
 
 
