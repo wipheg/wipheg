@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=header&text=WIPHEG&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Backend Developer focused on scalable systems and maintainable architecture</h3>
+<h3 align="center">Java Backend Developer | Spring Boot, REST APIs, and Clean Architecture</h3>
 
 <p align="center">
   읽기 쉬운 코드와 유지보수 가능한 구조를 지향합니다.
