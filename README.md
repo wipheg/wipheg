@@ -65,7 +65,6 @@ Spring Boot 기반 백엔드 및 DB 설계 담당
     src="https://streak-stats.demolab.com?user=wipheg&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakNum=111827&sideNums=111827&currStreakLabel=374151&sideLabels=6B7280&dates=9CA3AF" 
   />
 </p>
----
 
 ## Problem Solving
 
