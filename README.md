@@ -53,7 +53,6 @@ Qwen-VL 기반 OCR 후처리 및 구조화 데이터 추출 시스템 개발
 ### 공지봇
 RAG 기반 학사공지 챗봇 프로젝트  
 Spring Boot 기반 백엔드 및 DB 설계 담당
-https://github.com/team-gongjibot
 
 ---
 
