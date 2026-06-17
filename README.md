@@ -45,6 +45,7 @@
 ### MapleAvatar
 중고거래 커뮤니티 플랫폼  
 Cloudflare Workers, R2, KV, Supabase 기반 서비스 개발
+mapleavatar.com
 
 ### OCR Document Pipeline
 Qwen-VL 기반 OCR 후처리 및 구조화 데이터 추출 시스템 개발
