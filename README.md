@@ -57,14 +57,36 @@ Spring Boot 기반 백엔드 및 DB 설계 담당
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=wipheg&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakNum=111827&sideNums=111827&currStreakLabel=374151&sideLabels=6B7280&dates=9CA3AF" 
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wipheg&theme=tokyonight"
+    alt="GitHub Profile Details"
   />
 </p>
 
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wipheg&theme=tokyonight"
+    alt="Repositories Per Language"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wipheg&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wipheg&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity"
+  />
+</p>
 ## Problem Solving
 
 <p align="center">
