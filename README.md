@@ -11,15 +11,6 @@
 
 ---
 
-## About Me
-
-- Spring Boot 기반 백엔드 개발
-- OCR 및 문서 데이터 처리 프로젝트 경험
-- RAG 챗봇 및 AI 연계 서비스 개발 경험
-- Cloudflare, Supabase 기반 서비스 운영 경험
-
----
-
 ## Tech Stack
 
 ### Backend
@@ -39,22 +30,6 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
----
-
-## Projects
-
-### MapleAvatar
-중고거래 커뮤니티 플랫폼  
-Cloudflare Workers, R2, KV, Supabase 기반 서비스 개발
-🌐 [mapleavatar.com](https://mapleavatar.com)
-
-### OCR Document Pipeline
-Qwen-VL 기반 OCR 후처리 및 구조화 데이터 추출 시스템 개발
-
-### 공지봇
-RAG 기반 학사공지 챗봇 프로젝트  
-Spring Boot 기반 백엔드 및 DB 설계 담당
-
 ---
 
 ## GitHub Activity
@@ -80,19 +55,6 @@ Spring Boot 기반 백엔드 및 DB 설계 담당
   />
 </p>
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=wipheg&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-## Problem Solving
-
-<p align="center">
-  <a href="https://solved.ac/automatata">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=automatata" />
-  </a>
 </p>
 
 
